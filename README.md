@@ -1,15 +1,15 @@
 # Hi!👋 
-I am **Ardlyansyah**.\
-A **graduate** from Informatics [UPNVY](https://www.upnyk.ac.id/). <br>
+I am **Bach**.\
+A **graduate** from Archive and Records Management at [UI and UT] and **students** from Mathematics at [UT]([(https://www.ut.ac.id/)](https://www.ui.ac.id/))(. <br>
 
 <p align="left">
 <a href="https://github.com/BachtiarM12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardlyansyahh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardlyansyahh&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BachtiarM12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BachtiarM12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--
-**ardlyansyahh/ardlyansyahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BachtiarM12/BachtiarM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
