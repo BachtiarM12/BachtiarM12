@@ -1,6 +1,6 @@
 # Hi!👋 
 I am **Bach**.\
-A **graduate** from Archive and Records Management at [UI and UT] and **students** from Mathematics at [UT]([(https://www.ut.ac.id/)](https://www.ui.ac.id/))(. <br>
+A **graduate** from Archive and Records Management at [UI and UT] and **students** from Mathematics at [UT]([(https://www.ut.ac.id/)](https://www.ui.ac.id/)). <br>
 
 <p align="left">
 <a href="https://github.com/BachtiarM12">
