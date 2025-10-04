@@ -1,18 +1,16 @@
-# Hi!👋 
-I am **Bach**.\
-A **graduate** from Archive and Records Management at [UI and UT] and **students** from Mathematics at [UT]([(https://www.ut.ac.id/)](https://www.ui.ac.id/)). <br>
+# Hi! 👋 I'm Bach
+
+I'm a **graduate** in Archives and Records Management from [Universitas Indonesia (UI)](https://www.ui.ac.id/) and [Universitas Terbuka (UT)](https://www.ut.ac.id/).  
+I'm currently a **student** in Mathematics at [Universitas Terbuka (UT)](https://www.ut.ac.id/).
 
 <p align="left">
-<a href="https://github.com/BachtiarM12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BachtiarM12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BachtiarM12&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/BachtiarM12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BachtiarM12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BachtiarM12&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
-<!--
-**BachtiarM12/BachtiarM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+## About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
