@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Bach
 
 I'm a **graduate** in Archives and Records Management from [Universitas Indonesia (UI)](https://www.ui.ac.id/) and [Universitas Terbuka (UT)](https://www.ut.ac.id/).  
-Then now being new **student** in Mathematics at [Universitas Terbuka (UT)](https://www.ut.ac.id/).
+Then now being new **students** in Mathematics at [Universitas Terbuka (UT)](https://www.ut.ac.id/).
 
 <p align="left">
   <a href="https://github.com/BachtiarM12">
